@@ -187,3 +187,8 @@ footer a{
 footer a:hover{
   color: #eee;
 }
+.imgcama{
+  height: 40rem;
+  width: 60rem;
+  display: flex;
+}
